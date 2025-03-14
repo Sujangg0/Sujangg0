@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 About Me:<br><br>    🧠 Ethical Hacking and Cybersecurity student at Softwarica College of IT<br>    🌐 Passionate about cybersecurity, exploit development, and reverse engineering<br><br>💡 What I Do:<br><br>    💻 I work on real-world security projects and competitive programming<br>    🔍 I’m actively enhancing my skills in penetration testing, malware analysis, and web development<br><br>📂 Check Out:<br><br>    🛠️ My projects and resources on GitHub<br><br>🚀 What's Next:<br><br>    Excited to learn AI/ML and apply emerging technologies to cybersecurity challenges!<br>
+👩‍💻 About Me:<br><br>    🧠 Ethical Hacking and Cybersecurity student at Softwarica College of IT<br>    🌐 Passionate about cybersecurity, exploit development, and reverse engineering<br><br>💡 What I Do:<br><br>    🔍 I’m actively enhancing my skills in penetration testing, malware analysis, and web development (NodeJS & React)<br><br>📂 Check Out:<br><br>    🛠️ My projects and resources on GitHub<br><br>🚀 What's Next:<br><br>    Excited to learn AI/ML and apply emerging technologies to cybersecurity challenges!<br>
 
 
 ## 🌐 Socials:
