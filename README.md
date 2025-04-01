@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 About Me:<br><br>    🧠 Ethical Hacking and Cybersecurity student at Softwarica College of IT<br>    🌐 Passionate about both offensive and defensive security  <br><br>💡 What I Do:<br><br>    🔍 I’m actively enhancing my skills in penetration testing, reverse engineering, and web development (NodeJS & React)<br><br>📂 Check Out:<br><br>    🛠️ My projects and resources on [GitHub](https://github.com/Sujangg0?tab=repositories)<br><br>🚀 What's Next:<br><br>   🤖✨ Excited to learn AI/ML and apply emerging technologies to cybersecurity challenges!<br>
+👩‍💻 About Me:<br><br>    🧠 Ethical Hacking and Cybersecurity student at Softwarica College of IT<br>    🌐 Passionate about both offensive and defensive security  <br><br>💡 What I Do:<br><br>    🔍 I’m currently enhancing my skills in penetration testing, reverse engineering, and web development (NodeJS & React)<br><br>📂 Check Out:<br><br>    🛠️ My projects and resources on [GitHub](https://github.com/Sujangg0?tab=repositories)<br><br>🚀 What's Next:<br><br>   🤖✨ Excited to learn AI/ML and apply emerging technologies to cybersecurity challenges!<br>
 
 
 ## 🌐 Socials:
